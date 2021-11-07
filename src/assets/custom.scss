@@ -1,0 +1,57 @@
+// Override default variables before the import
+$body-bg: #000;
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+@font-face {
+  font-family: "Prata";
+  src: url("fonts/Prata-Regular.woff2") format("woff2"),
+    url("fonts/Prata-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/Inter-Light.woff2") format("woff2"),
+    url("fonts/Inter-Light.woff") format("woff");
+  font-weight: lighter;
+  font-style: normal;
+}
+
+.btn-custom {
+  background-color: #fbe850;
+  padding: 15px;
+  border-radius: 0%;
+  transition: 0.2s;
+}
+.btn-custom:hover {
+  transform: scale(1.1);
+}
+
+.m-inline {
+  margin-inline: 15px;
+}
+
+h1,
+h2 {
+  font-family: "Prata";
+}
+
+p {
+  font-family: "Inter";
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.prata {
+  font-family: "Prata";
+}
+
+.inter {
+  font-family: "Inter";
+}
+

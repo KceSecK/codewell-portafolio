@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/codewell-portafolio/static/css/main.75baea16.chunk.css",
+    "main.js": "/codewell-portafolio/static/js/main.c42b59ef.chunk.js",
+    "main.js.map": "/codewell-portafolio/static/js/main.c42b59ef.chunk.js.map",
+    "runtime-main.js": "/codewell-portafolio/static/js/runtime-main.b14dcf1c.js",
+    "runtime-main.js.map": "/codewell-portafolio/static/js/runtime-main.b14dcf1c.js.map",
+    "static/js/2.aa85d95f.chunk.js": "/codewell-portafolio/static/js/2.aa85d95f.chunk.js",
+    "static/js/2.aa85d95f.chunk.js.map": "/codewell-portafolio/static/js/2.aa85d95f.chunk.js.map",
+    "index.html": "/codewell-portafolio/index.html",
+    "static/css/main.75baea16.chunk.css.map": "/codewell-portafolio/static/css/main.75baea16.chunk.css.map",
+    "static/js/2.aa85d95f.chunk.js.LICENSE.txt": "/codewell-portafolio/static/js/2.aa85d95f.chunk.js.LICENSE.txt",
+    "static/media/Github.95fdc5ec.svg": "/codewell-portafolio/static/media/Github.95fdc5ec.svg",
+    "static/media/custom.scss": "/codewell-portafolio/static/media/Prata-Regular.8b6cfcc1.woff",
+    "static/media/JP Morgan.71f011e6.svg": "/codewell-portafolio/static/media/JP Morgan.71f011e6.svg",
+    "static/media/LinkedIn.b31066ce.svg": "/codewell-portafolio/static/media/LinkedIn.b31066ce.svg",
+    "static/media/Samsung.92683008.svg": "/codewell-portafolio/static/media/Samsung.92683008.svg",
+    "static/media/Spense.5c633919.png": "/codewell-portafolio/static/media/Spense.5c633919.png",
+    "static/media/Tinder.8eb285ff.svg": "/codewell-portafolio/static/media/Tinder.8eb285ff.svg",
+    "static/media/Twitter.47366e1c.svg": "/codewell-portafolio/static/media/Twitter.47366e1c.svg",
+    "static/media/Verizon.d4d5110f.svg": "/codewell-portafolio/static/media/Verizon.d4d5110f.svg",
+    "static/media/Visa.a08f1c51.svg": "/codewell-portafolio/static/media/Visa.a08f1c51.svg",
+    "static/media/Walmart.be520232.svg": "/codewell-portafolio/static/media/Walmart.be520232.svg",
+    "static/media/YelpCamp.4ba1dc4f.png": "/codewell-portafolio/static/media/YelpCamp.4ba1dc4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b14dcf1c.js",
+    "static/js/2.aa85d95f.chunk.js",
+    "static/css/main.75baea16.chunk.css",
+    "static/js/main.c42b59ef.chunk.js"
+  ]
+}
